@@ -52,7 +52,7 @@
 	<div class="content">
 		<div class="content-col">
 			<div class="right-content">
-				<h1>จัดตารางเวลาด้วยตัวคุณเอง</h1>
+				<h1>เกม over</h1>
 				
 				<form action="index" method="post">
 					<div class="btn">
@@ -84,13 +84,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="items">
-					<?php
-						require 'controllers/index/content_request.php';
-					?>
-                </div>
             </div>
-            <div class="profile-dropdown dd">
+            <div class="profile-dropdown zz">
                 <div class="arrow-up"></div>
                 <div class="header">
                     <div class="container">
@@ -131,7 +126,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="items">
+                <div class="items ss">
 					<?php
 						require 'controllers/index/content_message.php';
 					?>
@@ -143,8 +138,6 @@
 
 </body>
 </html>
-
-<script  src="js/index.js"></script>
 
 </body>
 </html>
