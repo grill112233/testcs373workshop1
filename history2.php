@@ -5,7 +5,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>ประวัติการถูกจอง</title>
+  <title>history</title>
   <link rel="stylesheet" href="css/history2style.css">
 
 </head>
@@ -14,14 +14,14 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>ประวัติการถูกจอง</title>
+    <title>ประวัติการถูกจอง</ti
 </head>
 <body>
 
 	<nav>
 		<div class="container">
 			<div class="col">
-				<div class="form-back" ><a class="back" href="index">< กลับสู่หน้าหลัก </a></div>
+				<div class="forjjm-back" ><a class="back" href="index">< กลับสู่หน้าหลัก </a></div>
 			</div>
 		</div>
 	</nav>
@@ -29,14 +29,11 @@
 	<header>
 		<div class="container">
 			<div class="box">
-				<div class="text">
-					ประวัติการถูกจอง
-				</div>
 			</div>
 		</div>
 	</header>
 	
-	<div class="content">
+	<div class="contentjhkjh">
 		<div class="container">
 			<div class="background">
 				<?php
