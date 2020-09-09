@@ -52,18 +52,18 @@
 	<div class="content">
 		<div class="content-col">
 			<div class="right-content">
-				<h1>จัดตารางเวลาด้วยตัวคุณเอง</h1>
+				<h1>เธ�เธฑเธ”เธ•เธฒเธฃเธฒเธ�เน€เธงเธฅเธฒเธ”เน�เธงเธขเธ•เธฑเธงเธ�เธธเธ“เน€เธญเธ�</h1>
 				
 				<form action="index" method="post">
 					<div class="btn">
-						<p><button type="submit" name="start-btn" style="cursor: pointer;">เริ่มต้นใช้งาน</button></p>
+						<p><button type="submit" name="start-btn" style="cursor: pointer;">เน€เธฃเธดเน�เธกเธ•เน�เธ�เน�เธ�เน�เธ�เธฒเธ�</button></p>
 						<div class="clearfix"></div>
-						<p><button type="submit" name="friend-btn" style="cursor: pointer;">ค้นหารายชื่อเพื่อน</button></p>
+						<p><button type="submit" name="friend-btn" style="cursor: pointer;">เธ�เน�เธ�เธซเธฒเธฃเธฒเธขเธ�เธทเน�เธญเน€เธ�เธทเน�เธญเธ�</button></p>
 					</div>
 					<div class="clearfix"></div>
 					<div class="btn-rainbow">
-						<button class="btn-rainbow2" type="submit" name="history1-btn" style="cursor: pointer;">ประวัติการจอง</button>
-						<button class="btn-rainbow1" type="submit" name="history2-btn" style="cursor: pointer;">ประวัติการถูกจอง</button>
+						<button class="btn-rainbow2" type="submit" name="history1-btn" style="cursor: pointer;">เธ�เธฃเธฐเธงเธฑเธ•เธดเธ�เธฒเธฃเธ�เธญเธ�</button>
+						<button class="btn-rainbow1" type="submit" name="history2-btn" style="cursor: pointer;">เธ�เธฃเธฐเธงเธฑเธ•เธดเธ�เธฒเธฃเธ–เธนเธ�เธ�เธญเธ�</button>
 					</div>
 				</form>
 			</div>
@@ -78,7 +78,7 @@
                 <div class="arrow-up"></div>
                 <div class="header">
                     <div class="container">
-                        <div class="text fl">คำร้องขอ</div>
+                        <div class="text fl">เธ�เธณเธฃเน�เธญเธ�เธ�เธญ</div>
                         <div class="notify-count common-count count2 fl">
                             <div class="value"><?php echo $countRequestMyTime; ?></div>
                         </div>
@@ -94,26 +94,26 @@
                 <div class="arrow-up"></div>
                 <div class="header">
                     <div class="container">
-                        <div class="text">ข้อมูลส่วนตัว</div>
+                        <div class="text">เธ�เน�เธญเธกเธนเธฅเธชเน�เธงเธ�เธ•เธฑเธง my new version again</div>
                     </div>
                 </div>
                 <div class="items">
 					<div class="list-item noti">
-                         <div class="text"><b class="fontS">ชื่อผู้ใช้ <?php echo $_SESSION['username']; ?></b></div>
+                         <div class="text"><b class="fontS">เธ�เธทเน�เธญเธ�เธนเน�เน�เธ�เน� <?php echo $_SESSION['username']; ?></b></div>
                      </div>
 					<div class="list-item noti">
-						 <div class="text"><b class="fontS">ชื่อ <?php echo $_SESSION['firstname'] . " " . $_SESSION['lastname']; ?></b></div>
+						 <div class="text"><b class="fontS">เธ�เธทเน�เธญ <?php echo $_SESSION['firstname'] . " " . $_SESSION['lastname']; ?></b></div>
                      </div>
 					<div class="list-item noti">
-                         <div class="text"><b class="fontS">อีเมล <?php echo $_SESSION['email']; ?></b></div>
+                         <div class="text"><b class="fontS">เธญเธตเน€เธกเธฅ <?php echo $_SESSION['email']; ?></b></div>
                      </div>
 					<div class="list-item noti">
                          <div class="text">
 							<form action="index" method="post">
-								<button type="submit" name="btn-profile" class="btn-manage-profile">จัดการบัญชี</button>
+								<button type="submit" name="btn-profile" class="btn-manage-profile">เธ�เธฑเธ”เธ�เธฒเธฃเธ�เธฑเธ�เธ�เธต</button>
 							</form>
 							<form action="index" method="post">
-								<button type="submit" name="logout-button" class="btn-logout">ออกจากระบบ</button>
+								<button type="submit" name="logout-button" class="btn-logout">เธญเธญเธ�เธ�เธฒเธ�เธฃเธฐเธ�เธ�</button>
 							</form>
 						 </div>
                      </div>
@@ -125,7 +125,7 @@
                 <div class="arrow-up"></div>
                 <div class="header">
                     <div class="container">
-                        <div class="text fl">ข้อความ</div>
+                        <div class="text fl">เธ�เน�เธญเธ�เธงเธฒเธก</div>
                         <div class="notify-count common-count count2 fl">
                             <div class="value"><?php echo $countMsg; ?></div>
                         </div>
