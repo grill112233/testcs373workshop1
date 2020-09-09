@@ -1,7 +1,7 @@
 <?php require_once 'controllers/authController.php'; ?>
 <!DOCTYPE html>
 <html>
-<title>เข้าสู่ระบบ</title>
+<title>ไฟเยอะdog</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel = "icon" href ="css/images/logo.png"> 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -50,17 +50,7 @@
 									</div>
 									<?php endif; ?>
 						
-									<div class="input-group" style="margin-bottom:1rem">
-										<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-										<input type="text" placeholder="ชื่อผู้ใช้/อีเมล" name="username" class="form-c form-control form-control-lg" style="background-color:#F5F5F5;">
-									</div>
-									
-									<div class="input-group" style="margin-bottom:1rem">
-										<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-										<input type="password" placeholder="รหัสผ่าน" name="password" class="form-control form-control-lg" style="background-color:#F5F5F5;">
-									</div>
-									<div class="w3-hover-none w3-text-blue" style="font-size:15px;">
-										<a href="#" target="_blank">ลืมรหัสผ่าน?</a>
+									<div class="input-group" rget="_blank">ลืมรหัสผ่าน?</a>
 									</div>
 									<div class="w3-row" style="padding-left: 25%;padding-right: 25%;margin-top:30px;">
 												<button type="submit" name="login-button" class="btn btn-lg" style="border-radius: 25px;color:white;outline: none;background-color:#821EA2; width:100%;">เข้าสู่ระบบ</button>
