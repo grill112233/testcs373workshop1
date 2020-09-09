@@ -1,7 +1,7 @@
 <?php require_once 'controllers/authController.php'; ?>
 <!DOCTYPE html>
 <html>
-<title>เข้าสู่ระบบ</title>
+<title>อุปุปวยปวยปวย อันเยนทวยทวยทวย โอสาส</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel = "icon" href ="css/images/logo.png"> 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -68,11 +68,6 @@
 						</form>
 					</h2>
 									
-									<div class="w3-hover-none w3-text-blue text-center" style="font-size:15px;">
-										<div style="color:white;">ยังไม่มีบัญชีใช่หรือไม่?
-											<a href="signup" target="_self" style="color: #B193ED;">สมัครสมาชิก</a>
-										</div>
-									</div>
 				</div>
 						
 
